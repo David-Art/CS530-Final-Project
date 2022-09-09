@@ -1,2 +1,2 @@
 # CS530-Final-Project
-- Project idea is still tentative
+- Project: Laser Alarm Security System
