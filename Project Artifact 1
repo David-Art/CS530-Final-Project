@@ -1,0 +1,21 @@
+09.30.2022 - Created this document and edited it, so there’s a table of contents.
+ 
+10.05.2022 - Capacitors and laser pointer obtained after purchase; now totalling a set of components that includes the Raspberry Pi and SD card for data transmission.
+
+10.09.2022 - Python script started. Anticipated to be finished within a few days from 10.10.2022
+
+10.11.2022 - Breadboard setup drafted. Might test soon, depending on availability of code.
+
+10.12.2022 - Ethan deployed the code onto the Raspberry Pi and updated all of the libraries to the latest version. He delivered it to David’s apartment for further testing.
+
+10.18.2022 - Ethan updated the code onto the Github repository and the readme markdown file.
+
+10.19.2022 - David and Collin reported to Ethan and showed that there may be some technical issues with the code and the physical hardware. Ethan updated the code once more, as it was missing a few arguments for the LightSensor() method. David and co. notified him about it.
+
+11.07.2022 - David updated the code for the laser security system and purchased a new LDR sensor.
+
+11.11.2022 - Collin and David worked on the video demonstration and it was published on November 11, 2022. Ethan refined the code on Github.
+
+11.14.2022 - Ethan updated the Github code and communicated with David on what changes were made locally.
+
+11.21.2022 - David updated the code on Github and pushed out minor documentation notes. In addition, he noted what each parameter did for certain methods in the GPIO library. 
